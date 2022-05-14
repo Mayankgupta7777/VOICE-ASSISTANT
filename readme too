@@ -1,0 +1,5 @@
+there are many library that you need to install and many are pre installed.
+
+For installing any of the libraries:
+
+you can write : pip install {LIBRARY NAME}
