@@ -1,6 +1,6 @@
 # VIRTUAL VOICE-ASSISTANT
 
-#Hello there! I'm thrilled to present my project on Personal Voice Assistance. This project utilizes a combination of powerful libraries and technologies to create a voice-controlled assistant that can perform a wide range of tasks. By leveraging the capabilities of Python, I have integrated features such as web browsing, text-to-speech conversion, speech recognition, Wikipedia search, email sending, system monitoring, GUI automation, joke generation, and even interaction with web APIs.
+Hello there! I'm thrilled to present my project on Personal Voice Assistance. This project utilizes a combination of powerful libraries and technologies to create a voice-controlled assistant that can perform a wide range of tasks. By leveraging the capabilities of Python, I have integrated features such as web browsing, text-to-speech conversion, speech recognition, Wikipedia search, email sending, system monitoring, GUI automation, joke generation, and even interaction with web APIs.
 
 Through the use of the 'webbrowser' module, I've enabled seamless web browsing functionality, allowing users to search the internet with ease. The 'pyttsx3' library empowers the assistant to convert text into natural-sounding speech, while the 'speech_recognition' module enables voice input for command execution. Additionally, the project leverages the power of Wikipedia for instant knowledge retrieval and 'os' for interacting with the operating system.
 
